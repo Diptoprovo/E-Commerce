@@ -24,7 +24,7 @@ This is a full-stack eCommerce web application built using the **MERN stack (Mon
 - View buyer and seller addresses.
 - Change order statuses.
 
-User Email ID are authenticated using OTP through an SMTP service. Buyers cannot plaqce order and Sellers cannot sell any products if their mail is not verified.
+User Email ID are authenticated using OTP through an SMTP service. Buyers cannot place orders and Sellers cannot sell any products if their mail is not verified.
 
 ## Technologies Used
 - **Frontend:** React.js (with Redux for state management)
