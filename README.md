@@ -1,6 +1,6 @@
 
 
-# eCommerce Website (MERN Stack)
+# e-Mart (MERN Stack)
 
 ## Overview
 This is a full-stack eCommerce web application built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. The platform supports three types of users: **Buyer, Seller, and Admin**, each with specific roles and functionalities.
