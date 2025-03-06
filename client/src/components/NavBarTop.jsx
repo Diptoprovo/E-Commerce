@@ -154,7 +154,7 @@ const NavBarTop = () => {
                         ></lord-icon>
                     </span>
                     <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">
-                        e-Comm
+                        e-Mart
                     </span>
                 </Navbar.Brand>
 
